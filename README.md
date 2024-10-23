@@ -34,7 +34,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Appwrite](https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg) 
+![Appwrite](https://img.shields.io/badge/appwrite-%23D00000.svg?style=for-the-badge&logo=appwrite&logoColor=white)
 
 # 📫 Connect with me:
 <p align="left">
@@ -53,5 +53,4 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Garvit-Nag&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 
