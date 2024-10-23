@@ -52,5 +52,5 @@
 <p align="center">![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)</p>
 
 ### 🔝 Top Contributed Repo
-<p align="center">![](https://github-contributor-stats.vercel.app/api?username=Garvit-Nag&limit=5&theme=dark&combine_all_yearly_contributions=true)</p>
+!<p align="center">[](https://github-contributor-stats.vercel.app/api?username=Garvit-Nag&limit=5&theme=dark&combine_all_yearly_contributions=true)</p>
 
