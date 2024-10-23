@@ -36,6 +36,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Appwrite](https://img.shields.io/badge/appwrite-%23D00000.svg?style=for-the-badge&logo=appwrite&logoColor=white)
 
+
 # 📫 Connect with me:
 <p align="left">
 <a href="https://twitter.com/garvit1505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="garvit1505" height="30" width="40" /></a>
