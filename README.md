@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer & ML Engineer from India</h3>
 
 # 💫 About Me:
-- 🔭 I’m currently working on **Medical Image Analysis**<br>
+- 🔭 I’m currently working on **Symptom Analysis**<br>
 - 🌱 I’m currently learning **Next.js and Flask**<br>
 - 💬 Ask me about **JavaScript and Python**<br>
 - ⚡ Fun fact: Winner of **Google GenAI Exchange Hackathon**
