@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Garvit</h1>
-<h3 align="center">A passionate Full Stack Developer & ML Engineer from India</h3>
+<h3 align="center">A passionate Full Stack / Backend Developer from India</h3>
 
 # 💫 About Me:
 - 🔭 I’m currently working on **Symptom Analysis**<br>
